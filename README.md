@@ -34,6 +34,8 @@ This project implements and verifies a Synchronous FIFO (First-In-First-Out) Buf
 
 📺 Project Demo 🎥 Watch the full project in action: (https://youtu.be/P2ioWDvbDwE)
 
+📩 Connect With Me 💡 LinkedIn Profile : https://www.linkedin.com/in/anurag-dubey-5b280b235/
+
 
 📌 Contributions & Issues
 
